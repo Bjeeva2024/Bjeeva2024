@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Mssql and .net MVC 
 - 🌱 I’m currently learning ... MVC
 - 💞️ I’m looking to collaborate on ... any one currently learn mvc 
-- 📫 How to reach me ... message in my github i speak Tamil
+- 📫 How to reach me ... message in my github i speak Tamil i live on chennai
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... im  learner 
 
