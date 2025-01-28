@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any one currently learn mvc 
 - 📫 How to reach me ... message in my github i speak Tamil and English i live on chennai
 - 😄 Pronouns: ... He/HIm
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: my job search on Loading... 
 
 <!---
 Bjeeva2024/Bjeeva2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
